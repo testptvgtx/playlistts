@@ -1,0 +1,1401 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_1.png" group-title="Sports",Sport 1
+https://live.iptv-th.workers.dev/live/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_2.png" group-title="Sports",Sport 2
+https://live.iptv-th.workers.dev/live/2.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_45.png" group-title="Sports",Euro Sport
+https://live.iptv-th.workers.dev/live/45.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_51.png" group-title="Sports",Bein sport 1 HD
+https://live.iptv-th.workers.dev/live/51.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_52.png" group-title="Sports",Bein sport 2 HD
+https://live.iptv-th.workers.dev/live/52.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_53.png" group-title="Sports",Bein sport 3 HD
+https://live.iptv-th.workers.dev/live/53.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_77.png" group-title="Sports",True Tennis HD
+https://live.iptv-th.workers.dev/live/77.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_79.png" group-title="Sports",True Sport HD
+https://live.iptv-th.workers.dev/live/79.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_80.png" group-title="Sports",True Sport HD 4
+https://live.iptv-th.workers.dev/live/80.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_89.jpg" group-title="Sports",NFL 1
+https://live.iptv-th.workers.dev/live/89.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_93.png" group-title="Sports",Red Bull TV
+https://live.iptv-th.workers.dev/live/93.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_95.png" group-title="Sports",Spotv1
+https://live.iptv-th.workers.dev/live/95.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_96.png" group-title="Sports",Spotv2
+https://live.iptv-th.workers.dev/live/96.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_115.png" group-title="Sports",True Sport 5
+https://live.iptv-th.workers.dev/live/115.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_116.png" group-title="Sports",True Sport 7
+https://live.iptv-th.workers.dev/live/116.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_124.png" group-title="Sports",Premier HD3
+https://live.iptv-th.workers.dev/live/124.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_147.png" group-title="Sports",True Sport HD 2
+https://live.iptv-th.workers.dev/live/147.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_148.png" group-title="Sports",True Sport HD 3
+https://live.iptv-th.workers.dev/live/148.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_151.jpg" group-title="Sports",TNT Sports
+https://live.iptv-th.workers.dev/live/151.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_152.jpg" group-title="Sports",TNT Sports 2
+https://live.iptv-th.workers.dev/live/152.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_154.jpg" group-title="Sports",TNT Sports 4
+https://live.iptv-th.workers.dev/live/154.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_155.png" group-title="Sports",ESPN US
+https://live.iptv-th.workers.dev/live/155.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_157.png" group-title="Sports",Fox sport 1 USA
+https://live.iptv-th.workers.dev/live/157.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_159.png" group-title="Sports",Fox sport 2 USA
+https://live.iptv-th.workers.dev/live/159.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_161.png" group-title="Sports",LFC TV
+https://live.iptv-th.workers.dev/live/161.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_164.jpg" group-title="Sports",Sky Sports Main Event
+https://live.iptv-th.workers.dev/live/164.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_166.png" group-title="Sports",Sky sport F1
+https://live.iptv-th.workers.dev/live/166.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_167.png" group-title="Sports",Sky sport football
+https://live.iptv-th.workers.dev/live/167.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_168.png" group-title="Sports",Sky Sport Golf
+https://live.iptv-th.workers.dev/live/168.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_178.jpg" group-title="Sports",Sport Extra 1
+https://live.iptv-th.workers.dev/live/178.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/default.png" group-title="Sports",AIS PLAY 1
+https://live.iptv-th.workers.dev/live/179.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_180.png" group-title="Sports",AIS PLAY 2
+https://live.iptv-th.workers.dev/live/180.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_323.jpg" group-title="Sports",Bein sport 1 Premium
+https://live.iptv-th.workers.dev/live/323.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_346.jpg" group-title="Sports",VNL 2
+https://live.iptv-th.workers.dev/live/346.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_415.jpg" group-title="Sports",NFL 2
+https://live.iptv-th.workers.dev/live/415.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_427.jpg" group-title="Sports",Fight Network
+https://live.iptv-th.workers.dev/live/427.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_430.jpg" group-title="Sports",Real Madrid TV
+https://live.iptv-th.workers.dev/live/430.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/default.png" group-title="Sports",Sport Extra 2
+https://live.iptv-th.workers.dev/live/433.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/default.png" group-title="Sports",Sport Extra 3
+https://live.iptv-th.workers.dev/live/436.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_32.jpg" group-title="Entertainment & Variety",Rock Entertainment
+https://live.iptv-th.workers.dev/live/32.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_33.jpg" group-title="Entertainment & Variety",ROCK Action
+https://live.iptv-th.workers.dev/live/33.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_36.jpg" group-title="Entertainment & Variety",Food Network Asia
+https://live.iptv-th.workers.dev/live/36.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_38.jpg" group-title="Entertainment & Variety",Asian food network AFN
+https://live.iptv-th.workers.dev/live/38.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_49.png" group-title="Entertainment & Variety",BBC Lifestyle
+https://live.iptv-th.workers.dev/live/49.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_121.png" group-title="Entertainment & Variety",True Xzyte
+https://live.iptv-th.workers.dev/live/121.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_271.jpg" group-title="Entertainment & Variety",CCTV 4
+https://live.iptv-th.workers.dev/live/271.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_343.jpg" group-title="Entertainment & Variety",Mono Music
+https://live.iptv-th.workers.dev/live/343.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_34.png" group-title="Movies",Celestial Classic Movies
+https://live.iptv-th.workers.dev/live/34.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_44.jpeg" group-title="Movies",3BB Asia
+https://live.iptv-th.workers.dev/live/44.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_62.png" group-title="Movies",Cinemax
+https://live.iptv-th.workers.dev/live/62.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_65.png" group-title="Movies",HBO Family
+https://live.iptv-th.workers.dev/live/65.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_68.png" group-title="Movies",AXN HD
+https://live.iptv-th.workers.dev/live/68.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_71.png" group-title="Movies",HBO Hit
+https://live.iptv-th.workers.dev/live/71.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_72.png" group-title="Movies",HBO Signature
+https://live.iptv-th.workers.dev/live/72.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_73.png" group-title="Movies",HBO HD Thai
+https://live.iptv-th.workers.dev/live/73.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_86.png" group-title="Movies",True Movie Hits
+https://live.iptv-th.workers.dev/live/86.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_117.png" group-title="Movies",True Thai Film
+https://live.iptv-th.workers.dev/live/117.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_101.png" group-title="Movies",True Film HD
+https://live.iptv-th.workers.dev/live/101.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_102.png" group-title="Movies",True Film HD2
+https://live.iptv-th.workers.dev/live/102.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_103.png" group-title="Movies",True Asian More
+https://live.iptv-th.workers.dev/live/103.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_106.png" group-title="Movies",True Film Asia
+https://live.iptv-th.workers.dev/live/106.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_112.png" group-title="Movies",True Series
+https://live.iptv-th.workers.dev/live/112.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_120.png" group-title="Movies",Warner TV
+https://live.iptv-th.workers.dev/live/120.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/movie1.jpg" group-title="Movies",movie1
+https://live.iptv-th.workers.dev/live/movie-1.ts
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/movie2.jpg" group-title="Movies",movie2
+https://live.iptv-th.workers.dev/live/movie-2.ts
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/movie3.jpg" group-title="Movies",movie3
+https://live.iptv-th.workers.dev/live/movie-3.ts
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/movie4.jpg" group-title="Movies",movie4
+https://live.iptv-th.workers.dev/live/movie-4.ts
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/movie5.jpg" group-title="Movies",movie5
+https://live.iptv-th.workers.dev/live/movie-5.ts
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_41.png" group-title="Documentaries",Love Nature 4K
+https://live.iptv-th.workers.dev/live/41.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_55.png" group-title="Documentaries",CI
+https://live.iptv-th.workers.dev/live/55.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_69.png" group-title="Documentaries",Discovery Channel
+https://live.iptv-th.workers.dev/live/69.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_74.png" group-title="Documentaries",History HD
+https://live.iptv-th.workers.dev/live/74.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_78.png" group-title="Documentaries",TLC
+https://live.iptv-th.workers.dev/live/78.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/default.png" group-title="Documentaries",True Explore SCI
+https://live.iptv-th.workers.dev/live/111.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_118.png" group-title="Documentaries",True Explore Wild
+https://live.iptv-th.workers.dev/live/118.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_211.jpg" group-title="Documentaries",MySci
+https://live.iptv-th.workers.dev/live/211.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_218.jpg" group-title="Documentaries",Love nature
+https://live.iptv-th.workers.dev/live/218.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_269.jpg" group-title="Documentaries",RT Documentary
+https://live.iptv-th.workers.dev/live/269.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_329.jpg" group-title="Documentaries",Animal show
+https://live.iptv-th.workers.dev/live/329.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_332.jpg" group-title="Documentaries",Thainess
+https://live.iptv-th.workers.dev/live/332.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_335.jpg" group-title="Documentaries",Thai เธเธญเธเธ”เธตเธเธฃเธฐเน€เธ—เธจเนเธ—เธข
+https://live.iptv-th.workers.dev/live/335.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/default.png" group-title="News",BBC News
+https://live.iptv-th.workers.dev/live/50.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_56.png" group-title="News",CNN
+https://live.iptv-th.workers.dev/live/56.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_270.jpg" group-title="News",RT - Breaking News
+https://live.iptv-th.workers.dev/live/270.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_272.jpg" group-title="News",CGTN
+https://live.iptv-th.workers.dev/live/272.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_273.jpg" group-title="News",CNA
+https://live.iptv-th.workers.dev/live/273.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_274.jpg" group-title="News",Euronews
+https://live.iptv-th.workers.dev/live/274.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_275.jpg" group-title="News",DW
+https://live.iptv-th.workers.dev/live/275.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_276.jpg" group-title="News",France 24
+https://live.iptv-th.workers.dev/live/276.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_277.jpg" group-title="News",News1
+https://live.iptv-th.workers.dev/live/277.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_421.jpg" group-title="News",Fox News
+https://live.iptv-th.workers.dev/live/421.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_54.png" group-title="Kids & Cartoons",Cartoon Network
+https://live.iptv-th.workers.dev/live/54.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_91.jpg" group-title="Kids & Cartoons",Nick Kids
+https://live.iptv-th.workers.dev/live/91.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_219.jpg" group-title="Kids & Cartoons",Boomerang
+https://live.iptv-th.workers.dev/live/219.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_292.jpg" group-title="Kids & Cartoons",Nick Jr
+https://live.iptv-th.workers.dev/live/292.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_85.png" group-title="Digital TV",Mono Plus
+https://live.iptv-th.workers.dev/live/85.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_127.png" group-title="Digital TV",CH 3 HD
+https://live.iptv-th.workers.dev/live/127.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_128.png" group-title="Digital TV",CH 5 HD
+https://live.iptv-th.workers.dev/live/128.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_129.png" group-title="Digital TV",CH 7 HD
+https://live.iptv-th.workers.dev/live/129.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_130.png" group-title="Digital TV",Amarin TV HD
+https://live.iptv-th.workers.dev/live/130.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_131.png" group-title="Digital TV",CH 8
+https://live.iptv-th.workers.dev/live/131.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_132.png" group-title="Digital TV",GMM 25
+https://live.iptv-th.workers.dev/live/132.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_133.png" group-title="Digital TV",MCOT HD
+https://live.iptv-th.workers.dev/live/133.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_134.png" group-title="Digital TV",MONO 29
+https://live.iptv-th.workers.dev/live/134.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_135.png" group-title="Digital TV",Nation TV
+https://live.iptv-th.workers.dev/live/135.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_136.png" group-title="Digital TV",NBT
+https://live.iptv-th.workers.dev/live/136.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_137.png" group-title="Digital TV",JKN
+https://live.iptv-th.workers.dev/live/137.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_138.png" group-title="Digital TV",ONE HD
+https://live.iptv-th.workers.dev/live/138.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_139.png" group-title="Digital TV",PPTV HD
+https://live.iptv-th.workers.dev/live/139.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_140.png" group-title="Digital TV",Thai PBS
+https://live.iptv-th.workers.dev/live/140.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_141.png" group-title="Digital TV",Thai Rath HD
+https://live.iptv-th.workers.dev/live/141.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_142.png" group-title="Digital TV",TNN 24
+https://live.iptv-th.workers.dev/live/142.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_144.png" group-title="Digital TV",True 4 U
+https://live.iptv-th.workers.dev/live/144.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_146.png" group-title="Digital TV",Work Point TV
+https://live.iptv-th.workers.dev/live/146.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_175.jpg" group-title="Digital TV",tsports
+https://live.iptv-th.workers.dev/live/175.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_113.jpg" group-title="Sports (Mono Max)",MONOMAX 1 (Srv 1)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2YpLT9nBgoPGGEdTUEVBCUOFlUeUVlMDlk3Gx0DDQRXJD86OT0TF1VIfBUPExwYIhYNHF0BQxk.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_114.jpg" group-title="Sports (Mono Max)",MONOMAX 2 (Srv 1)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2YpLT9nBgoPGGEdTUEVBCUOFlUeUVlMDlk3Gx0DDQRXJD86OT0TF1VLfBUPExwYIhYNHF0BQxk.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_115.jpg" group-title="Sports (Mono Max)",MONOMAX 3 (Srv 1)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2YpLT9nBgoPGGEdTUEVBCUOFlUeUVlMDlk3Gx0DDQRXJD86OT0TF1VKfBUPExwYIhYNHF0BQxk.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_116.jpg" group-title="Sports (Mono Max)",MONOMAX 4 (Srv 1)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2YpLT9nBgoPGGEdTUEVBCUOFlUeUVlMDlk3Gx0DDQRXJD86OT0TF1VNfBUPExwYIhYNHF0BQxk.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_117.jpg" group-title="Sports (Mono Max)",MONOMAX 5 (Srv 1)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2YpLT9nBgoPGGEdTUEVBCUOFlUeUVlMDlk3Gx0DDQRXJD86OT0TF1VMfBUPExwYIhYNHF0BQxk.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_355.jpg" group-title="Sports (Mono Max)",MONOMAX 1 (Srv 2)
+https://live.iptv-th.workers.dev/live/355.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_358.jpg" group-title="Sports (Mono Max)",MONOMAX 2 (Srv 2)
+https://live.iptv-th.workers.dev/live/358.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_361.jpg" group-title="Sports (Mono Max)",MONOMAX 3 (Srv 2)
+https://live.iptv-th.workers.dev/live/361.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_364.jpg" group-title="Sports (Mono Max)",MONOMAX 4 (Srv 2)
+https://live.iptv-th.workers.dev/live/364.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_367.jpg" group-title="Sports (Mono Max)",MONOMAX 5 (Srv 2)
+https://live.iptv-th.workers.dev/live/367.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_370.jpg" group-title="Sports (Mono Max)",MONOMAX 6 (Srv 2)
+https://live.iptv-th.workers.dev/live/370.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_373.jpg" group-title="Sports (Mono Max)",MONOMAX 7 (Srv 2)
+https://live.iptv-th.workers.dev/live/373.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_376.jpg" group-title="Sports (Mono Max)",MONOMAX 8 (Srv 2)
+https://live.iptv-th.workers.dev/live/376.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_379.jpg" group-title="Sports (Mono Max)",MONOMAX 9 (Srv 2)
+https://live.iptv-th.workers.dev/live/379.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_382.jpg" group-title="Sports (Mono Max)",MONOMAX 10 (Srv 2)
+https://live.iptv-th.workers.dev/live/382.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_385.jpg" group-title="Sports (Mono Max)",MONOMAX 11 (Srv 2)
+https://live.iptv-th.workers.dev/live/385.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_403.jpg" group-title="Sports (Mono Max)",MONOMAX 12 (Srv 2)
+https://live.iptv-th.workers.dev/live/403.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_130.jpg" group-title="Sports (Mono Max)",MONOMAX 1 (Srv 3)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2Y8PSA1XAIdHGtdEx4EDS4XV1FfXxlNSFchQFdUXF5BZz1nI2g.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_131.jpg" group-title="Sports (Mono Max)",MONOMAX 2 (Srv 3)
+https://live.iptv-th.workers.dev/live/stream/index_LBsbFh9TV2Y8PSA1XAIdHGtdEx4EDS4XV1FfXxlNSFchQFdUXlBIZz1nI2g.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_132.jpg" group-title="Sports (Mono Max)",MONOMAX 1 (Srv 4)
+http://54.37.19.157/monomax1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.iptv-th.workers.dev/logos/logo_ext_133.jpg" group-title="Sports (Mono Max)",MONOMAX 2 (Srv 4)
+http://54.37.19.157/monomax2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/1.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 1
+https://live.iptv-th.workers.dev/live/xc-391550.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/2.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 2
+https://live.iptv-th.workers.dev/live/xc-391551.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/3.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 3
+https://live.iptv-th.workers.dev/live/xc-391552.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/4.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 4
+https://live.iptv-th.workers.dev/live/xc-391553.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/5.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 5
+https://live.iptv-th.workers.dev/live/xc-391554.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/6.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 6
+https://live.iptv-th.workers.dev/live/xc-391555.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/7.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 7
+https://live.iptv-th.workers.dev/live/xc-391556.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/8.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 8
+https://live.iptv-th.workers.dev/live/xc-391557.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-9.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 9
+https://live.iptv-th.workers.dev/live/xc-395398.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-10.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 10
+https://live.iptv-th.workers.dev/live/xc-395399.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-11.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 11
+https://live.iptv-th.workers.dev/live/xc-400472.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-12.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 12
+https://live.iptv-th.workers.dev/live/xc-400473.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-13.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 13
+https://live.iptv-th.workers.dev/live/xc-400474.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-14.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 14
+https://live.iptv-th.workers.dev/live/xc-400475.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-15.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 15
+https://live.iptv-th.workers.dev/live/xc-400476.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-16.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 16
+https://live.iptv-th.workers.dev/live/xc-400477.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-17.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 17
+https://live.iptv-th.workers.dev/live/xc-400478.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-18.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 18
+https://live.iptv-th.workers.dev/live/xc-400479.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-19.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 19
+https://live.iptv-th.workers.dev/live/xc-400480.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-20.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 20
+https://live.iptv-th.workers.dev/live/xc-400481.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-21.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 21
+https://live.iptv-th.workers.dev/live/xc-400482.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-22.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 22
+https://live.iptv-th.workers.dev/live/xc-400483.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-23.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 23
+https://live.iptv-th.workers.dev/live/xc-400484.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-24.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 24
+https://live.iptv-th.workers.dev/live/xc-400485.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-25.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 25
+https://live.iptv-th.workers.dev/live/xc-400486.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-26.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 26
+https://live.iptv-th.workers.dev/live/xc-400487.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-27.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 27
+https://live.iptv-th.workers.dev/live/xc-400488.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-28.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 28
+https://live.iptv-th.workers.dev/live/xc-444754.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214508_0.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 31
+https://live.iptv-th.workers.dev/live/xc-446301.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214509_0.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 32
+https://live.iptv-th.workers.dev/live/xc-446302.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214510_0.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 35
+https://live.iptv-th.workers.dev/live/xc-446303.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214511_0.png" group-title="[6395] Ais Jleauge TrueBallThai",AIS BallThai 36
+https://live.iptv-th.workers.dev/live/xc-446304.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758709746.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 31
+https://live.iptv-th.workers.dev/live/xc-432463.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620339.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 36
+https://live.iptv-th.workers.dev/live/xc-432464.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620000.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 37
+https://live.iptv-th.workers.dev/live/xc-432465.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620354.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 38
+https://live.iptv-th.workers.dev/live/xc-432466.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620354.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 39
+https://live.iptv-th.workers.dev/live/xc-434095.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/PlaySports41_PEA.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 41
+https://live.iptv-th.workers.dev/live/xc-437835.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/PlaySports41_PEA.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 41 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537506.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PlaySports42_PEA.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 42
+https://live.iptv-th.workers.dev/live/xc-398303.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//PlaySports43_EST.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 43
+https://live.iptv-th.workers.dev/live/xc-398649.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//PlaySports44_EST.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 44
+https://live.iptv-th.workers.dev/live/xc-399657.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//PlaySports45_EST.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 45
+https://live.iptv-th.workers.dev/live/xc-399658.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-46.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 46
+https://live.iptv-th.workers.dev/live/xc-437840.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/PLAYSPORTS51.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 51
+https://live.iptv-th.workers.dev/live/xc-398296.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/PLAYSPORTS52.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 52
+https://live.iptv-th.workers.dev/live/xc-398297.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/PLAYSPORTS53.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 53
+https://live.iptv-th.workers.dev/live/xc-398298.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1759480097.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 55
+https://live.iptv-th.workers.dev/live/xc-425262.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1759480097.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 55 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537507.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1761069361.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 56
+https://live.iptv-th.workers.dev/live/xc-430862.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1761069361.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 56 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537508.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214415.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 57
+https://live.iptv-th.workers.dev/live/xc-446300.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214415.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 57 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537509.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/BCEED2B6-95D0-4163-84B1-F37AF2B545F9.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 61
+https://live.iptv-th.workers.dev/live/xc-444732.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/BCEED2B6-95D0-4163-84B1-F37AF2B545F9.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 61 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537511.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 62
+https://live.iptv-th.workers.dev/live/xc-444733.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 62 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537512.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 64
+https://live.iptv-th.workers.dev/live/xc-444752.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 64 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537514.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12017825.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 65
+https://live.iptv-th.workers.dev/live/xc-444753.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1769669214.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 66
+https://live.iptv-th.workers.dev/live/xc-446293.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1769669214.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 66 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537515.m3u8
+#EXTINF:-1 tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20251226191714034597.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 67
+https://live.iptv-th.workers.dev/live/xc-547030.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984946_0.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 69
+https://live.iptv-th.workers.dev/live/xc-444734.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984946_0.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 69 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537516.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714588.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 71
+https://live.iptv-th.workers.dev/live/xc-443260.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714588.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 71 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537517.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714685.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 72
+https://live.iptv-th.workers.dev/live/xc-443261.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714685.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 72 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537518.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 73
+https://live.iptv-th.workers.dev/live/xc-443262.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 73 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537519.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 74
+https://live.iptv-th.workers.dev/live/xc-447497.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 74 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537520.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 75
+https://live.iptv-th.workers.dev/live/xc-447498.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 75 สำรอง
+https://live.iptv-th.workers.dev/live/xc-537521.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1771240553.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 76
+https://live.iptv-th.workers.dev/live/xc-447499.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1771281463.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 77
+https://live.iptv-th.workers.dev/live/xc-447500.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1771240452.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 78
+https://live.iptv-th.workers.dev/live/xc-447501.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/58.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 58
+https://live.iptv-th.workers.dev/live/xc-537510.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/63.png" group-title="[6395] Ais Jleauge TrueBallThai",PLAY SPORTS 63
+https://live.iptv-th.workers.dev/live/xc-537513.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/true-ball-thai/ballthai1.png" group-title="[6395] Ais Jleauge TrueBallThai",True Ball Thai 1
+https://live.iptv-th.workers.dev/live/xc-288585.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/true-ball-thai/ballthai2.png" group-title="[6395] Ais Jleauge TrueBallThai",True Ball Thai 2
+https://live.iptv-th.workers.dev/live/xc-288586.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="[6395] Ais Jleauge TrueBallThai",BG Sport 1
+https://live.iptv-th.workers.dev/live/xc-300100.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="[6395] Ais Jleauge TrueBallThai",BG Sport 2
+https://live.iptv-th.workers.dev/live/xc-300101.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="[6395] Ais Jleauge TrueBallThai",BG Sport 3
+https://live.iptv-th.workers.dev/live/xc-304692.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="[6395] Ais Jleauge TrueBallThai",BG Sport 4
+https://live.iptv-th.workers.dev/live/xc-304693.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="[6395] Ais Jleauge TrueBallThai",BG Sport 5
+https://live.iptv-th.workers.dev/live/xc-304694.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m1.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 1
+https://live.iptv-th.workers.dev/live/xc-541531.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m1.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 1 B
+https://live.iptv-th.workers.dev/live/xc-548359.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m2.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 2
+https://live.iptv-th.workers.dev/live/xc-541532.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m2.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 2 B
+https://live.iptv-th.workers.dev/live/xc-548360.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m3.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 3
+https://live.iptv-th.workers.dev/live/xc-541533.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m3.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 3 B
+https://live.iptv-th.workers.dev/live/xc-548361.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m4.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 4
+https://live.iptv-th.workers.dev/live/xc-541534.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m4.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 4 B
+https://live.iptv-th.workers.dev/live/xc-548362.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m5.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 5
+https://live.iptv-th.workers.dev/live/xc-541535.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m5.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 5 B
+https://live.iptv-th.workers.dev/live/xc-548363.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m6.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 6
+https://live.iptv-th.workers.dev/live/xc-541536.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m6.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 6 B
+https://live.iptv-th.workers.dev/live/xc-548364.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m7.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 7
+https://live.iptv-th.workers.dev/live/xc-541537.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m7.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 7 B
+https://live.iptv-th.workers.dev/live/xc-548365.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m8.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 8
+https://live.iptv-th.workers.dev/live/xc-541538.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m8.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 8 B
+https://live.iptv-th.workers.dev/live/xc-548366.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260602150518056173.png" group-title="[6395] FIFA World Cup 2026",Monomaxsports
+https://live.iptv-th.workers.dev/live/xc-541544.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m1.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 1-1
+https://live.iptv-th.workers.dev/live/xc-548389.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m2.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 2-2
+https://live.iptv-th.workers.dev/live/xc-548390.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m3.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 3-3
+https://live.iptv-th.workers.dev/live/xc-548391.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m4.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 4-4
+https://live.iptv-th.workers.dev/live/xc-548392.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/m5.jpg" group-title="[6395] FIFA World Cup 2026",FIFA World Cup 5-5
+https://live.iptv-th.workers.dev/live/xc-548393.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestlooktung.png" group-title="[6395] Unknown (ID: 27)",Request Radio เพลงลูกทุ่ง
+https://live.iptv-th.workers.dev/live/xc-7799.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestlife.png" group-title="[6395] Unknown (ID: 27)",Request Radio เพลงเพื่อชีวิต
+https://live.iptv-th.workers.dev/live/xc-7800.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/request.png" group-title="[6395] Unknown (ID: 27)",Request Radio เพลงไทยสตริง
+https://live.iptv-th.workers.dev/live/xc-7801.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestdance.png" group-title="[6395] Unknown (ID: 27)",Request Radio เพลงแดนซ์
+https://live.iptv-th.workers.dev/live/xc-7802.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestinter.png" group-title="[6395] Unknown (ID: 27)",Request Radio เพลงสากล
+https://live.iptv-th.workers.dev/live/xc-7803.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/musichitzlife.png" group-title="[6395] Unknown (ID: 27)",MUSICHITz เพลงลูกทุ่ง เพื่อชีวิต
+https://live.iptv-th.workers.dev/live/xc-7804.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/musichitzthai.png" group-title="[6395] Unknown (ID: 27)",MUSICHITz เพลงไทยสากล
+https://live.iptv-th.workers.dev/live/xc-7805.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/musichitzinter.png" group-title="[6395] Unknown (ID: 27)",MUSICHITz เพลงสากล
+https://live.iptv-th.workers.dev/live/xc-7806.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/ondiothaiold.png" group-title="[6395] Unknown (ID: 27)",ONDIO เพลงไทยสากลเก่า
+https://live.iptv-th.workers.dev/live/xc-7807.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/ondiothainew.png" group-title="[6395] Unknown (ID: 27)",ONDIO เพลงไทยสากลใหม่
+https://live.iptv-th.workers.dev/live/xc-7808.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png" group-title="[6395] Unknown (ID: 27)",COOL fahrenheit COOLISM คูลลิซึ่ม
+https://live.iptv-th.workers.dev/live/xc-7809.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm95.png" group-title="[6395] Unknown (ID: 27)",FM95 ลูกทุ่งมหานคร
+https://live.iptv-th.workers.dev/live/xc-7810.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/active99fm.png" group-title="[6395] Unknown (ID: 27)",Active FM 99 คลื่นเมืองไทยแข็งแรง
+https://live.iptv-th.workers.dev/live/xc-7811.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/965fm.png" group-title="[6395] Unknown (ID: 27)",FM 96.5 คลื่นความคิด เข้มทุกสาระ ข้นทุกความคิด
+https://live.iptv-th.workers.dev/live/xc-7812.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png" group-title="[6395] Unknown (ID: 27)",MCOT News Network คลื่นข่าว FM 100.5 สถานีข่าว
+https://live.iptv-th.workers.dev/live/xc-7813.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/great93onair.png" group-title="[6395] Unknown (ID: 27)",Great Forward Radio
+https://live.iptv-th.workers.dev/live/xc-7814.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fmone1035.png" group-title="[6395] Unknown (ID: 27)", FM ONE 103.5 ความสุขรวมไว้ที่เดียว
+https://live.iptv-th.workers.dev/live/xc-7815.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/musicbox.png" group-title="[6395] Unknown (ID: 27)",MUSICBOX MAXIMUM MUSIC STATION
+https://live.iptv-th.workers.dev/live/xc-7816.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/ircradio.png" group-title="[6395] Unknown (ID: 27)",IRC Radio 
+https://live.iptv-th.workers.dev/live/xc-7817.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm101.png" group-title="[6395] Unknown (ID: 27)",FM 101 Radio Report One
+https://live.iptv-th.workers.dev/live/xc-7818.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/js100.png" group-title="[6395] Unknown (ID: 27)",จส.100 ข่าวสารการจราจร
+https://live.iptv-th.workers.dev/live/xc-7819.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm91.png" group-title="[6395] Unknown (ID: 27)",สวพ. FM 91 สถานีวิทยุเพื่อความปลอดภัยและการจราจร
+https://live.iptv-th.workers.dev/live/xc-7820.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm102.png" group-title="[6395] Unknown (ID: 27)",102radioOnline
+https://live.iptv-th.workers.dev/live/xc-7821.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smartnews905.png" group-title="[6395] Unknown (ID: 27)",smartbomb
+https://live.iptv-th.workers.dev/live/xc-7822.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/starradio9525.png" group-title="[6395] Unknown (ID: 27)",Star Radio FM 95.25 Chiangmai
+https://live.iptv-th.workers.dev/live/xc-7823.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/chiangmairadio.png" group-title="[6395] Unknown (ID: 27)",Chiang Mai Radio FM 93.75 MHz เชียงใหม่ เรดิโอ
+https://live.iptv-th.workers.dev/live/xc-7824.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png" group-title="[6395] Unknown (ID: 27)",XFM Chiangmai FM 94.5 MHz ยิ่งฟังยิ่งใช่
+https://live.iptv-th.workers.dev/live/xc-7825.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile101.png" group-title="[6395] Unknown (ID: 27)",Smile Radio FM 101 สไมล์ลูกทุ่ง
+https://live.iptv-th.workers.dev/live/xc-7826.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile9525.png" group-title="[6395] Unknown (ID: 27)",Smile Radio FM 95.25
+https://live.iptv-th.workers.dev/live/xc-7827.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/10475radio.png" group-title="[6395] Unknown (ID: 27)", คลื่นเพื่อการอนุลักษณ์ 104.75 FM
+https://live.iptv-th.workers.dev/live/xc-7828.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/looktungnetwork.png" group-title="[6395] Unknown (ID: 27)",ลูกทุ่ง
+https://live.iptv-th.workers.dev/live/xc-7829.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/isamfm98.png" group-title="[6395] Unknown (ID: 27)",อีสาน 98
+https://live.iptv-th.workers.dev/live/xc-7830.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sbt.png" group-title="[6395] Unknown (ID: 27)",ธรรมมะหลวงตามหาบัว
+https://live.iptv-th.workers.dev/live/xc-7831.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/wowradio885.png" group-title="[6395] Unknown (ID: 27)",WOW RADIO PHRAE 88.5  เป็นสถานีเพลงลูกทุ่ง
+https://live.iptv-th.workers.dev/live/xc-7832.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png" group-title="[6395] Unknown (ID: 27)",Sukson Radio เพลงไทยสากล
+https://live.iptv-th.workers.dev/live/xc-7833.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png" group-title="[6395] Unknown (ID: 27)",Sukson Radio เพลงสากล
+https://live.iptv-th.workers.dev/live/xc-7834.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/one173.png" group-title="[6395] even กีฬา",one
+https://live.iptv-th.workers.dev/live/xc-434962.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/one173.png" group-title="[6395] even กีฬา",ONE 2
+https://live.iptv-th.workers.dev/live/xc-538137.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-cartoonnetwork.png" group-title="[6395] การ์ตูน",Cartoonnetwork
+https://live.iptv-th.workers.dev/live/xc-172.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-boomerang.png" group-title="[6395] การ์ตูน",Boomerang TH
+https://live.iptv-th.workers.dev/live/xc-173.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-nickjr.png" group-title="[6395] การ์ตูน",NickJr EN TH
+https://live.iptv-th.workers.dev/live/xc-174.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/nickelodeon.png" group-title="[6395] การ์ตูน",nickelodeon
+https://live.iptv-th.workers.dev/live/xc-175.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-dreamworks.png" group-title="[6395] การ์ตูน",DreamWorks
+https://live.iptv-th.workers.dev/live/xc-176.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-sparkplay.png" group-title="[6395] การ์ตูน",TRUE-PLAY
+https://live.iptv-th.workers.dev/live/xc-180.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-cartoonclub.png" group-title="[6395] การ์ตูน",Cartoon Club
+https://live.iptv-th.workers.dev/live/xc-215.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/cartoonito.png" group-title="[6395] การ์ตูน",cartoonito
+https://live.iptv-th.workers.dev/live/xc-182080.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/npr.brightspotcdn.webp" group-title="[6395] การ์ตูน",PBS-Kids
+https://live.iptv-th.workers.dev/live/xc-182085.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/1621590341_zoo-moo.jpg" group-title="[6395] การ์ตูน",ZooMoo
+https://live.iptv-th.workers.dev/live/xc-182086.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/Cartoon.png" group-title="[6395] การ์ตูน",Cartoon
+https://live.iptv-th.workers.dev/live/xc-280546.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/cartoon/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.jpg" group-title="[6395] การ์ตูน",ANIPLUS Channel
+https://live.iptv-th.workers.dev/live/xc-398610.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260401133808044641.png" group-title="[6395] การ์ตูน",แมงโก้ โมฮิโต้
+https://live.iptv-th.workers.dev/live/xc-541543.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max1.jpg" group-title="[6395] กีฬา 1",AIS MAX 1
+https://live.iptv-th.workers.dev/live/xc-395400.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max2.jpg" group-title="[6395] กีฬา 1",AIS MAX 2
+https://live.iptv-th.workers.dev/live/xc-395401.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max3.jpg" group-title="[6395] กีฬา 1",AIS MAX 3
+https://live.iptv-th.workers.dev/live/xc-395402.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max4.jpg" group-title="[6395] กีฬา 1",AIS MAX 4
+https://live.iptv-th.workers.dev/live/xc-395403.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max5.jpg" group-title="[6395] กีฬา 1",AIS MAX 5
+https://live.iptv-th.workers.dev/live/xc-395404.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max6.jpg" group-title="[6395] กีฬา 1",AIS MAX 6
+https://live.iptv-th.workers.dev/live/xc-395405.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max7.jpg" group-title="[6395] กีฬา 1",AIS MAX 7
+https://live.iptv-th.workers.dev/live/xc-395406.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/max8.jpg" group-title="[6395] กีฬา 1",AIS MAX 8
+https://live.iptv-th.workers.dev/live/xc-395407.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/rgh1754650599r.jpg" group-title="[6395] กีฬา 1",MONOMAX 1
+https://live.iptv-th.workers.dev/live/xc-391359.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bfi1754650613t.jpg" group-title="[6395] กีฬา 1",MONOMAX 2
+https://live.iptv-th.workers.dev/live/xc-391423.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bwy1754650624l.jpg" group-title="[6395] กีฬา 1",MONOMAX 3
+https://live.iptv-th.workers.dev/live/xc-391424.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/cqs1754650644n.jpg" group-title="[6395] กีฬา 1",MONOMAX 4
+https://live.iptv-th.workers.dev/live/xc-398282.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/cqs1754650644n.jpg" group-title="[6395] กีฬา 1",MONOMAX 5
+https://live.iptv-th.workers.dev/live/xc-398289.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/rgh1754851710l.jpg" group-title="[6395] กีฬา 1",MONOMAX 6
+https://live.iptv-th.workers.dev/live/xc-398290.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1754851797j.jpg" group-title="[6395] กีฬา 1",MONOMAX 7
+https://live.iptv-th.workers.dev/live/xc-398291.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/arx1754851810f.jpg" group-title="[6395] กีฬา 1",MONOMAX 8
+https://live.iptv-th.workers.dev/live/xc-398292.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/opt1754851823o.jpg" group-title="[6395] กีฬา 1",MONOMAX 9
+https://live.iptv-th.workers.dev/live/xc-398293.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/klz1755230997i.jpg" group-title="[6395] กีฬา 1",MONOMAX 10
+https://live.iptv-th.workers.dev/live/xc-398294.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755231023m.jpg" group-title="[6395] กีฬา 1",MONOMAX 11
+https://live.iptv-th.workers.dev/live/xc-398295.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="[6395] กีฬา 1",Bein 1 TH
+https://live.iptv-th.workers.dev/live/xc-391433.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="[6395] กีฬา 1",Bein 1 TH สำรอง
+https://live.iptv-th.workers.dev/live/xc-521739.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="[6395] กีฬา 1",Bein 2 TH
+https://live.iptv-th.workers.dev/live/xc-391434.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="[6395] กีฬา 1",Bein 2 TH สำรอง
+https://live.iptv-th.workers.dev/live/xc-521740.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="[6395] กีฬา 1",Bein 3 TH
+https://live.iptv-th.workers.dev/live/xc-391435.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="[6395] กีฬา 1",Bein 3 TH สำรอง
+https://live.iptv-th.workers.dev/live/xc-521741.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="[6395] กีฬา 1",Bein 4 TH
+https://live.iptv-th.workers.dev/live/xc-391436.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" group-title="[6395] กีฬา 1",Bein 5 TH
+https://live.iptv-th.workers.dev/live/xc-391437.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="[6395] กีฬา 1",Bein 6 TH
+https://live.iptv-th.workers.dev/live/xc-391438.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="[6395] กีฬา 1",Bein 7 TH
+https://live.iptv-th.workers.dev/live/xc-391439.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="[6395] กีฬา 1",Bein 8 TH
+https://live.iptv-th.workers.dev/live/xc-391440.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="[6395] กีฬา 1",Bein 9 TH
+https://live.iptv-th.workers.dev/live/xc-391441.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="[6395] กีฬา 1",Bein 10 TH
+https://live.iptv-th.workers.dev/live/xc-391442.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD1
+https://live.iptv-th.workers.dev/live/xc-391443.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD1 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521742.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD2
+https://live.iptv-th.workers.dev/live/xc-391444.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD2 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521743.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD3
+https://live.iptv-th.workers.dev/live/xc-391445.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD3 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521744.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD4
+https://live.iptv-th.workers.dev/live/xc-391446.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD5
+https://live.iptv-th.workers.dev/live/xc-391447.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD5 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521745.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD7
+https://live.iptv-th.workers.dev/live/xc-391448.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="[6395] กีฬา 1",TrueSport HD7 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521746.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755247501e.jpg" group-title="[6395] กีฬา 1",True tennis
+https://live.iptv-th.workers.dev/live/xc-391449.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/arx1755254643w.jpg" group-title="[6395] กีฬา 1",NFL
+https://live.iptv-th.workers.dev/live/xc-391450.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png" group-title="[6395] กีฬา 1",Golf
+https://live.iptv-th.workers.dev/live/xc-391451.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png" group-title="[6395] กีฬา 1",Golf Channel Thai
+https://live.iptv-th.workers.dev/live/xc-391452.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bwy1755247613h.jpg" group-title="[6395] กีฬา 1",SPOTV 1
+https://live.iptv-th.workers.dev/live/xc-391453.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bwy1755247613h.jpg" group-title="[6395] กีฬา 1",SPOTV 1 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521747.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755247593w.jpg" group-title="[6395] กีฬา 1",SPOTV 2
+https://live.iptv-th.workers.dev/live/xc-391454.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755247593w.jpg" group-title="[6395] กีฬา 1",SPOTV 2 สำรอง
+https://live.iptv-th.workers.dev/live/xc-521748.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp" group-title="[6395] กีฬา 1",ID Station
+https://live.iptv-th.workers.dev/live/xc-391455.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/mD9fkGHCv2XAS6ZVhcUIclgKrwM=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fT9BmOIbR8XQ0eCgvsruvarrLqYbKNwz.png" group-title="[6395] กีฬา 1",Toyota Gazoo Racing Thailand 2025
+https://live.iptv-th.workers.dev/live/xc-391456.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/zvZtEXugLXvSQ2boUnkrNRX1dvw=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fLuhFoGmSaEI7rtLljvkZEWrgprrKvAP.png" group-title="[6395] กีฬา 1",AXCR 2025
+https://live.iptv-th.workers.dev/live/xc-391457.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/klz1755254816o.jpg" group-title="[6395] กีฬา 1",NBA
+https://live.iptv-th.workers.dev/live/xc-391458.m3u8
+#EXTINF:-1 tvg-logo="http://6395online.com:8080/image/kv-ksport1.png" group-title="[6395] กีฬา 1",K Sport 1
+https://live.iptv-th.workers.dev/live/xc-391459.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/image/kv-ksport2.png" group-title="[6395] กีฬา 1",K Sport 2
+https://live.iptv-th.workers.dev/live/xc-391460.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/image/kv-ksport3.png" group-title="[6395] กีฬา 1",K Sport 3
+https://live.iptv-th.workers.dev/live/xc-391461.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6uOoWgKZ2PVkzPZfYEkFYJAotYF-tEDi9g&s" group-title="[6395] กีฬา 1",Youtube Livestream
+https://live.iptv-th.workers.dev/live/xc-391462.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755254495z.jpg" group-title="[6395] กีฬา 1",Sport tv
+https://live.iptv-th.workers.dev/live/xc-391463.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/opt1755254535i.jpg" group-title="[6395] กีฬา 1",Sport tv2
+https://live.iptv-th.workers.dev/live/xc-391464.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755254580n.jpg" group-title="[6395] กีฬา 1",Sport tv3
+https://live.iptv-th.workers.dev/live/xc-391465.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bwy1755254594f.jpg" group-title="[6395] กีฬา 1",Sport tv4
+https://live.iptv-th.workers.dev/live/xc-391466.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/arx1755254608l.jpg.jpg" group-title="[6395] กีฬา 1",Sport tv5
+https://live.iptv-th.workers.dev/live/xc-391467.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1755254624g.jpg" group-title="[6395] กีฬา 1",MUTV B
+https://live.iptv-th.workers.dev/live/xc-391468.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bfi1755246743h.jpg" group-title="[6395] กีฬา 1",LFC B
+https://live.iptv-th.workers.dev/live/xc-391469.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/rgh1750350844w.jpg" group-title="[6395] กีฬา 1",WWE
+https://live.iptv-th.workers.dev/live/xc-391470.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/jdv1750351212j.png" group-title="[6395] กีฬา 1",DAZN 1
+https://live.iptv-th.workers.dev/live/xc-391471.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/viu1750351171t.png" group-title="[6395] กีฬา 1",DAZN 2
+https://live.iptv-th.workers.dev/live/xc-391472.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/rgh1750351342x.png" group-title="[6395] กีฬา 1",DAZN 3
+https://live.iptv-th.workers.dev/live/xc-391473.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/viu1750351358x.png" group-title="[6395] กีฬา 1",DAZN 4
+https://live.iptv-th.workers.dev/live/xc-391474.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/cqs1755247775m.jpg" group-title="[6395] กีฬา 1",EUROSPORT 1
+https://live.iptv-th.workers.dev/live/xc-391475.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/opt1755247821u.jpg" group-title="[6395] กีฬา 1",EUROSPORT 2
+https://live.iptv-th.workers.dev/live/xc-391476.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="[6395] กีฬา 1",True Premier Football 3
+https://live.iptv-th.workers.dev/live/xc-391479.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp" group-title="[6395] กีฬา 1",True Premier Football 4
+https://live.iptv-th.workers.dev/live/xc-391480.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/opt1755247993r.jpg" group-title="[6395] กีฬา 1",ESPN 1
+https://live.iptv-th.workers.dev/live/xc-391482.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/viu1755248007d.jpg" group-title="[6395] กีฬา 1",ESPN 2
+https://live.iptv-th.workers.dev/live/xc-391483.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/cqs1755248019x.jpg" group-title="[6395] กีฬา 1",ESPN 3
+https://live.iptv-th.workers.dev/live/xc-391484.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/viu1755248241u.jpg" group-title="[6395] กีฬา 1",SK 1
+https://live.iptv-th.workers.dev/live/xc-391485.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bfi1755248253l.jpg" group-title="[6395] กีฬา 1",SK 2
+https://live.iptv-th.workers.dev/live/xc-391486.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/bwy1755248268u.jpg" group-title="[6395] กีฬา 1",SK 3
+https://live.iptv-th.workers.dev/live/xc-391487.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/EPL.jpg" group-title="[6395] กีฬา 1",EPL SKYBET 1
+https://live.iptv-th.workers.dev/live/xc-393000.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/EPL.jpg" group-title="[6395] กีฬา 1",EPL SKYBET 2
+https://live.iptv-th.workers.dev/live/xc-393001.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/EPL.jpg" group-title="[6395] กีฬา 1",EPL SKYBET 3
+https://live.iptv-th.workers.dev/live/xc-393002.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/tsn1.png" group-title="[6395] กีฬา 1",TSN 1
+https://live.iptv-th.workers.dev/live/xc-540978.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/tsn2.png" group-title="[6395] กีฬา 1",TSN 2
+https://live.iptv-th.workers.dev/live/xc-540979.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/tsn3.png" group-title="[6395] กีฬา 1",TSN 3
+https://live.iptv-th.workers.dev/live/xc-540980.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/tsn4.png" group-title="[6395] กีฬา 1",TSN 4
+https://live.iptv-th.workers.dev/live/xc-540981.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/tsn5.png" group-title="[6395] กีฬา 1",TSN 5
+https://live.iptv-th.workers.dev/live/xc-540982.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1665106057.png" group-title="[6395] กีฬา 1",Sky Sports mainevent
+https://live.iptv-th.workers.dev/live/xc-540983.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/skyarena.png" group-title="[6395] กีฬา 1",Sky Sports arena
+https://live.iptv-th.workers.dev/live/xc-540984.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1715648808.png" group-title="[6395] กีฬา 1",Sky Sports action
+https://live.iptv-th.workers.dev/live/xc-540985.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1744742402.png" group-title="[6395] กีฬา 1",Sky Sports cricket
+https://live.iptv-th.workers.dev/live/xc-540986.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/skyepl.png" group-title="[6395] กีฬา 1",Sky Sports epl
+https://live.iptv-th.workers.dev/live/xc-540987.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1712888702.png" group-title="[6395] กีฬา 1",Sky Sports golf
+https://live.iptv-th.workers.dev/live/xc-540988.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1712888821.png" group-title="[6395] กีฬา 1",Sky Sports f1
+https://live.iptv-th.workers.dev/live/xc-540989.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1712889285.png" group-title="[6395] กีฬา 1",Sky Sports mix
+https://live.iptv-th.workers.dev/live/xc-540990.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1664576894.png" group-title="[6395] กีฬา 1",Sky Sports football
+https://live.iptv-th.workers.dev/live/xc-540991.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/uk-btsport1hd.png" group-title="[6395] กีฬา 1",TNS Sport 1
+https://live.iptv-th.workers.dev/live/xc-541539.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/uk-btsport2hd.png" group-title="[6395] กีฬา 1",TNS Sport 2
+https://live.iptv-th.workers.dev/live/xc-541540.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/uk-btsport3hd.png" group-title="[6395] กีฬา 1",TNS Sport 3
+https://live.iptv-th.workers.dev/live/xc-541541.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/uk-btsport4hd.png" group-title="[6395] กีฬา 1",TNS Sport 4
+https://live.iptv-th.workers.dev/live/xc-541542.m3u8
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/nbap.png" group-title="[6395] กีฬา 1",NBA Prime
+https://live.iptv-th.workers.dev/live/xc-542965.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein1.png" group-title="[6395] กีฬา 2",Bein 1 TH
+https://live.iptv-th.workers.dev/live/xc-202.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein1.png" group-title="[6395] กีฬา 2",Bein 1 TH
+https://live.iptv-th.workers.dev/live/xc-203.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein2.png" group-title="[6395] กีฬา 2",Bein 2 TH
+https://live.iptv-th.workers.dev/live/xc-204.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein3.png" group-title="[6395] กีฬา 2",Bein 3 TH
+https://live.iptv-th.workers.dev/live/xc-205.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport1.png" group-title="[6395] กีฬา 2",TrueSport HD1
+https://live.iptv-th.workers.dev/live/xc-206.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport2.png" group-title="[6395] กีฬา 2",TrueSport HD2
+https://live.iptv-th.workers.dev/live/xc-207.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport3.png" group-title="[6395] กีฬา 2",TrueSport HD3
+https://live.iptv-th.workers.dev/live/xc-208.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport4.png" group-title="[6395] กีฬา 2",TrueSport HD4
+https://live.iptv-th.workers.dev/live/xc-209.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/sd-tsport5.png" group-title="[6395] กีฬา 2",TrueSport 5
+https://live.iptv-th.workers.dev/live/xc-210.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/sd-tsport7.png" group-title="[6395] กีฬา 2",TrueSport 7
+https://live.iptv-th.workers.dev/live/xc-211.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tennis.png" group-title="[6395] กีฬา 2",True tennis
+https://live.iptv-th.workers.dev/live/xc-212.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/IDStation.jpg" group-title="[6395] กีฬา 2",ID Station
+https://live.iptv-th.workers.dev/live/xc-214.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/golf2.jpg" group-title="[6395] กีฬา 2",Golf 2 HD
+https://live.iptv-th.workers.dev/live/xc-217.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-spotv.png" group-title="[6395] กีฬา 2",SPOTV 1
+https://live.iptv-th.workers.dev/live/xc-219.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-spotv2.png" group-title="[6395] กีฬา 2",SPOTV 2
+https://live.iptv-th.workers.dev/live/xc-220.m3u8
+#EXTINF:-1 tvg-logo="https://www.idoohd.com/images/tv/qMObUQGl2bobXKoTYJQsVmTGyBigrOAT-SPorts_7_Final.jpg" group-title="[6395] กีฬา 2",T SPORT
+https://live.iptv-th.workers.dev/live/xc-231.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/308864143_166781909281516_6364889195803126705_n.jpg" group-title="[6395] กีฬา 2",HiSports HD
+https://live.iptv-th.workers.dev/live/xc-435632.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-HIFIGHT.png" group-title="[6395] กีฬา 2",HIFIGHT
+https://live.iptv-th.workers.dev/live/xc-435633.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-tennis-tv.png" group-title="[6395] กีฬา 2",Tennis HD
+https://live.iptv-th.workers.dev/live/xc-435634.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/TOPFIGHT.png" group-title="[6395] กีฬา 2",Top Fight HD
+https://live.iptv-th.workers.dev/live/xc-435635.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/us-nbcsports.png" group-title="[6395] กีฬา 2",NBC Sports Washington
+https://live.iptv-th.workers.dev/live/xc-435636.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4680.png" group-title="[6395] กีฬา M",MAX 1
+https://live.iptv-th.workers.dev/live/xc-391630.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4681.png" group-title="[6395] กีฬา M",MAX 2
+https://live.iptv-th.workers.dev/live/xc-391655.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4682.png" group-title="[6395] กีฬา M",MAX 3
+https://live.iptv-th.workers.dev/live/xc-391679.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4683.png" group-title="[6395] กีฬา M",MAX 4
+https://live.iptv-th.workers.dev/live/xc-391680.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4684.png" group-title="[6395] กีฬา M",MAX 5
+https://live.iptv-th.workers.dev/live/xc-391702.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4685.png" group-title="[6395] กีฬา M",MAX 6
+https://live.iptv-th.workers.dev/live/xc-391703.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4686.png" group-title="[6395] กีฬา M",MAX 7
+https://live.iptv-th.workers.dev/live/xc-391704.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4687.png" group-title="[6395] กีฬา M",MAX 8
+https://live.iptv-th.workers.dev/live/xc-391705.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4688.png" group-title="[6395] กีฬา M",MAX 9
+https://live.iptv-th.workers.dev/live/xc-391706.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4689.png" group-title="[6395] กีฬา M",MAX 10
+https://live.iptv-th.workers.dev/live/xc-398636.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4690.png" group-title="[6395] กีฬา M",MAX 11
+https://live.iptv-th.workers.dev/live/xc-398637.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/tv-station--4691.png" group-title="[6395] กีฬา M",MAX 12
+https://live.iptv-th.workers.dev/live/xc-441741.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax01.png" group-title="[6395] กีฬา M",MONOMAX 1
+https://live.iptv-th.workers.dev/live/xc-391707.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax02.png" group-title="[6395] กีฬา M",MONOMAX 2
+https://live.iptv-th.workers.dev/live/xc-391708.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax03.png" group-title="[6395] กีฬา M",MONOMAX 3
+https://live.iptv-th.workers.dev/live/xc-391709.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax04.png" group-title="[6395] กีฬา M",MONOMAX 4
+https://live.iptv-th.workers.dev/live/xc-391710.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax05.png" group-title="[6395] กีฬา M",MONOMAX 5
+https://live.iptv-th.workers.dev/live/xc-391711.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax06.png" group-title="[6395] กีฬา M",MONOMAX 6
+https://live.iptv-th.workers.dev/live/xc-391712.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax07.png" group-title="[6395] กีฬา M",MONOMAX 7
+https://live.iptv-th.workers.dev/live/xc-391713.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax08.png" group-title="[6395] กีฬา M",MONOMAX 8
+https://live.iptv-th.workers.dev/live/xc-391714.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax09.png" group-title="[6395] กีฬา M",MONOMAX 9
+https://live.iptv-th.workers.dev/live/xc-391715.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax10.png" group-title="[6395] กีฬา M",MONOMAX 10
+https://live.iptv-th.workers.dev/live/xc-391716.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax11.png" group-title="[6395] กีฬา M",MONOMAX 11
+https://live.iptv-th.workers.dev/live/xc-441740.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="[6395] กีฬา M",League Men Sports 1
+https://live.iptv-th.workers.dev/live/xc-441743.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="[6395] กีฬา M",League Men Sports 2
+https://live.iptv-th.workers.dev/live/xc-441744.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499681.png" group-title="[6395] กีฬา M",True Premier Football 3
+https://live.iptv-th.workers.dev/live/xc-391722.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499692.png" group-title="[6395] กีฬา M",True Premier Football 4
+https://live.iptv-th.workers.dev/live/xc-391723.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499700.png" group-title="[6395] กีฬา M",True Premier Football 5
+https://live.iptv-th.workers.dev/live/xc-437738.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="[6395] กีฬา M",League Men Sports 3
+https://live.iptv-th.workers.dev/live/xc-444275.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/lfc-tv.png" group-title="[6395] กีฬาต่างประเทศ",LFC TV 
+https://live.iptv-th.workers.dev/live/xc-12192.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/mutv.png" group-title="[6395] กีฬาต่างประเทศ",MUTV
+https://live.iptv-th.workers.dev/live/xc-12193.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/my-wsport.png" group-title="[6395] กีฬาต่างประเทศ",My Wsport
+https://live.iptv-th.workers.dev/live/xc-398630.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="[6395] กีฬาต่างประเทศ",Real Madrid TV
+https://live.iptv-th.workers.dev/live/xc-400489.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/logo/1753040524.png" group-title="[6395] กีฬาต่างประเทศ",Eurosport
+https://live.iptv-th.workers.dev/live/xc-403224.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-attheraces.png" group-title="[6395] กีฬาต่างประเทศ",UK Attheraces
+https://live.iptv-th.workers.dev/live/xc-542877.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-btsport1hd.png" group-title="[6395] กีฬาต่างประเทศ",UK Btsport1hd
+https://live.iptv-th.workers.dev/live/xc-542878.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-btsport1hdbkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Btsport1hdbkp
+https://live.iptv-th.workers.dev/live/xc-542879.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-btsport2hd.png" group-title="[6395] กีฬาต่างประเทศ",UK Btsport2hd
+https://live.iptv-th.workers.dev/live/xc-542880.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-btsport2hdbkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Btsport2hdbkp
+https://live.iptv-th.workers.dev/live/xc-542881.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-btsport3hd.png" group-title="[6395] กีฬาต่างประเทศ",UK Btsport3hd
+https://live.iptv-th.workers.dev/live/xc-542882.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-espn.png" group-title="[6395] กีฬาต่างประเทศ",UK Espn
+https://live.iptv-th.workers.dev/live/xc-542883.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-premiersports.png" group-title="[6395] กีฬาต่างประเทศ",UK Premiersports
+https://live.iptv-th.workers.dev/live/xc-542884.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-premiersports2.png" group-title="[6395] กีฬาต่างประเทศ",UK Premiersports2
+https://live.iptv-th.workers.dev/live/xc-542885.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-action.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Action
+https://live.iptv-th.workers.dev/live/xc-542886.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-arena.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Arena
+https://live.iptv-th.workers.dev/live/xc-542887.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-cricket.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Cricket
+https://live.iptv-th.workers.dev/live/xc-542888.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-epl.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports EPL
+https://live.iptv-th.workers.dev/live/xc-542889.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-f1.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports F1
+https://live.iptv-th.workers.dev/live/xc-542890.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-football.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Football
+https://live.iptv-th.workers.dev/live/xc-542891.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-golf.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Golf
+https://live.iptv-th.workers.dev/live/xc-542892.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-mainevent.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Mainevent
+https://live.iptv-th.workers.dev/live/xc-542893.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-mix.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports MIX
+https://live.iptv-th.workers.dev/live/xc-542894.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-news.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports News
+https://live.iptv-th.workers.dev/live/xc-542895.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports-plus.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports Plus
+https://live.iptv-th.workers.dev/live/xc-542896.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports1bkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports1bkp
+https://live.iptv-th.workers.dev/live/xc-542897.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports3bkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports3bkp
+https://live.iptv-th.workers.dev/live/xc-542898.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports4bkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports4bkp
+https://live.iptv-th.workers.dev/live/xc-542899.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysports5bkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysports5bkp
+https://live.iptv-th.workers.dev/live/xc-542900.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/uk-skysportsf1bkp.png" group-title="[6395] กีฬาต่างประเทศ",UK Skysportsf1bkp
+https://live.iptv-th.workers.dev/live/xc-542901.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-cbssn.png" group-title="[6395] กีฬาต่างประเทศ",US Cbssn
+https://live.iptv-th.workers.dev/live/xc-542902.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-espn1.png" group-title="[6395] กีฬาต่างประเทศ",US Espn1
+https://live.iptv-th.workers.dev/live/xc-542903.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-espn2.png" group-title="[6395] กีฬาต่างประเทศ",US Espn2
+https://live.iptv-th.workers.dev/live/xc-542904.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-foxsports1.png" group-title="[6395] กีฬาต่างประเทศ",US Foxsports1
+https://live.iptv-th.workers.dev/live/xc-542905.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-foxsports2.png" group-title="[6395] กีฬาต่างประเทศ",US Foxsports2
+https://live.iptv-th.workers.dev/live/xc-542906.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-nba.png" group-title="[6395] กีฬาต่างประเทศ",US NBA
+https://live.iptv-th.workers.dev/live/xc-542907.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-nbcgolf.png" group-title="[6395] กีฬาต่างประเทศ",US Nbcgolf
+https://live.iptv-th.workers.dev/live/xc-542908.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-nbcsports.png" group-title="[6395] กีฬาต่างประเทศ",US Nbcsports
+https://live.iptv-th.workers.dev/live/xc-542909.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-nfl.png" group-title="[6395] กีฬาต่างประเทศ",US NFL
+https://live.iptv-th.workers.dev/live/xc-542910.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/us-nhl.png" group-title="[6395] กีฬาต่างประเทศ",US NHL
+https://live.iptv-th.workers.dev/live/xc-542911.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-fox501.png" group-title="[6395] กีฬาต่างประเทศ",AU Fox501
+https://live.iptv-th.workers.dev/live/xc-542912.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-fox502.png" group-title="[6395] กีฬาต่างประเทศ",AU Fox502
+https://live.iptv-th.workers.dev/live/xc-542913.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-fox503.png" group-title="[6395] กีฬาต่างประเทศ",AU Fox503
+https://live.iptv-th.workers.dev/live/xc-542914.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-fox504.png" group-title="[6395] กีฬาต่างประเทศ",AU Fox504
+https://live.iptv-th.workers.dev/live/xc-542915.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-fox505.png" group-title="[6395] กีฬาต่างประเทศ",AU Fox505
+https://live.iptv-th.workers.dev/live/xc-542916.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-fox507.png" group-title="[6395] กีฬาต่างประเทศ",AU Fox507
+https://live.iptv-th.workers.dev/live/xc-542917.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/au-skyracing1.png" group-title="[6395] กีฬาต่างประเทศ",AU Skyracing1
+https://live.iptv-th.workers.dev/live/xc-542918.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ca-tsn1.png" group-title="[6395] กีฬาต่างประเทศ",CA Tsn1
+https://live.iptv-th.workers.dev/live/xc-542919.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ca-tsn2.png" group-title="[6395] กีฬาต่างประเทศ",CA Tsn2
+https://live.iptv-th.workers.dev/live/xc-542920.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ca-tsn3.png" group-title="[6395] กีฬาต่างประเทศ",CA Tsn3
+https://live.iptv-th.workers.dev/live/xc-542921.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ca-tsn4.png" group-title="[6395] กีฬาต่างประเทศ",CA Tsn4
+https://live.iptv-th.workers.dev/live/xc-542922.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ca-tsn5.png" group-title="[6395] กีฬาต่างประเทศ",CA Tsn5
+https://live.iptv-th.workers.dev/live/xc-542923.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/fr-bein1hd.png" group-title="[6395] กีฬาต่างประเทศ",FR Bein1hd
+https://live.iptv-th.workers.dev/live/xc-542924.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/fr-bein2hd.png" group-title="[6395] กีฬาต่างประเทศ",FR Bein2hd
+https://live.iptv-th.workers.dev/live/xc-542925.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/fr-bein3hd.png" group-title="[6395] กีฬาต่างประเทศ",FR Bein3hd
+https://live.iptv-th.workers.dev/live/xc-542926.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/fr-canalsport.png" group-title="[6395] กีฬาต่างประเทศ",FR Canalsport
+https://live.iptv-th.workers.dev/live/xc-542927.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/fr-infosport.png" group-title="[6395] กีฬาต่างประเทศ",FR Infosport
+https://live.iptv-th.workers.dev/live/xc-542928.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-arena1.png" group-title="[6395] กีฬาต่างประเทศ",MY Arena1
+https://live.iptv-th.workers.dev/live/xc-542929.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-arena2.png" group-title="[6395] กีฬาต่างประเทศ",MY Arena2
+https://live.iptv-th.workers.dev/live/xc-542930.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-astro-epl1.png" group-title="[6395] กีฬาต่างประเทศ",MY Astro Epl1
+https://live.iptv-th.workers.dev/live/xc-542931.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-astro-epl2.png" group-title="[6395] กีฬาต่างประเทศ",MY Astro Epl2
+https://live.iptv-th.workers.dev/live/xc-542932.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-astro-football.png" group-title="[6395] กีฬาต่างประเทศ",MY Astro Football
+https://live.iptv-th.workers.dev/live/xc-542933.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-astro-grandstand.png" group-title="[6395] กีฬาต่างประเทศ",MY Astro Grandstand
+https://live.iptv-th.workers.dev/live/xc-542934.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-astro-sportsplus.png" group-title="[6395] กีฬาต่างประเทศ",MY Astro Sportsplus
+https://live.iptv-th.workers.dev/live/xc-542935.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-bein1.png" group-title="[6395] กีฬาต่างประเทศ",MY Bein1
+https://live.iptv-th.workers.dev/live/xc-542936.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-bein2.png" group-title="[6395] กีฬาต่างประเทศ",MY Bein2
+https://live.iptv-th.workers.dev/live/xc-542937.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-bein3.png" group-title="[6395] กีฬาต่างประเทศ",MY Bein3
+https://live.iptv-th.workers.dev/live/xc-542938.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-nbcgolf.png" group-title="[6395] กีฬาต่างประเทศ",MY Nbcgolf
+https://live.iptv-th.workers.dev/live/xc-542939.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-premiersports.png" group-title="[6395] กีฬาต่างประเทศ",MY Premiersports
+https://live.iptv-th.workers.dev/live/xc-542940.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-spotv1.png" group-title="[6395] กีฬาต่างประเทศ",MY Spotv1
+https://live.iptv-th.workers.dev/live/xc-542941.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/my-spotv2.png" group-title="[6395] กีฬาต่างประเทศ",MY Spotv2
+https://live.iptv-th.workers.dev/live/xc-542942.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport1.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport1
+https://live.iptv-th.workers.dev/live/xc-542943.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport2.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport2
+https://live.iptv-th.workers.dev/live/xc-542944.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport3.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport3
+https://live.iptv-th.workers.dev/live/xc-542945.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport4.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport4
+https://live.iptv-th.workers.dev/live/xc-542946.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport5.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport5
+https://live.iptv-th.workers.dev/live/xc-542947.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport6.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport6
+https://live.iptv-th.workers.dev/live/xc-542948.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport7.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport7
+https://live.iptv-th.workers.dev/live/xc-542949.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport8.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport8
+https://live.iptv-th.workers.dev/live/xc-542950.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/nz-skysport9.png" group-title="[6395] กีฬาต่างประเทศ",NZ Skysport9
+https://live.iptv-th.workers.dev/live/xc-542951.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein1.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein1
+https://live.iptv-th.workers.dev/live/xc-542952.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein10.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein10
+https://live.iptv-th.workers.dev/live/xc-542953.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein11.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein11
+https://live.iptv-th.workers.dev/live/xc-542954.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein12.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein12
+https://live.iptv-th.workers.dev/live/xc-542955.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein2.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein2
+https://live.iptv-th.workers.dev/live/xc-542956.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein4.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein4
+https://live.iptv-th.workers.dev/live/xc-542957.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/hd-bein7.png" group-title="[6395] กีฬาต่างประเทศ",HD Bein7
+https://live.iptv-th.workers.dev/live/xc-542958.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ru-matchfutbol1.png" group-title="[6395] กีฬาต่างประเทศ",RU Matchfutbol1
+https://live.iptv-th.workers.dev/live/xc-542959.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ru-matchfutbol2.png" group-title="[6395] กีฬาต่างประเทศ",RU Matchfutbol2
+https://live.iptv-th.workers.dev/live/xc-542960.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/ru-matchfutbol3.png" group-title="[6395] กีฬาต่างประเทศ",RU Matchfutbol3
+https://live.iptv-th.workers.dev/live/xc-542961.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/sg-bein1.png" group-title="[6395] กีฬาต่างประเทศ",SG Bein1
+https://live.iptv-th.workers.dev/live/xc-542962.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/sg-hubsport01.png" group-title="[6395] กีฬาต่างประเทศ",SG Hubsport01
+https://live.iptv-th.workers.dev/live/xc-542963.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/inter/sg-hubsport02.png" group-title="[6395] กีฬาต่างประเทศ",SG Hubsport02
+https://live.iptv-th.workers.dev/live/xc-542964.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/hd-cnn.png" group-title="[6395] ข่าว",CNN LIVE
+https://live.iptv-th.workers.dev/live/xc-329.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/uk-rt.png" group-title="[6395] ข่าว",Russia To day
+https://live.iptv-th.workers.dev/live/xc-330.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/images.jpg" group-title="[6395] ข่าว",Channel news asia
+https://live.iptv-th.workers.dev/live/xc-332.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/hd-bbcworldnews.png" group-title="[6395] ข่าว",BBC-worldnews
+https://live.iptv-th.workers.dev/live/xc-333.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/download.png" group-title="[6395] ข่าว",Bloomberg
+https://live.iptv-th.workers.dev/live/xc-334.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/breaking-news.png" group-title="[6395] ข่าว",BreaKingNews
+https://live.iptv-th.workers.dev/live/xc-336.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/sd-aljazeera.png" group-title="[6395] ข่าว",ALJAZEERA
+https://live.iptv-th.workers.dev/live/xc-337.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/R40be5e0331090a9d12d07ff8ceba7aed.png" group-title="[6395] ข่าว",France 24
+https://live.iptv-th.workers.dev/live/xc-339.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/Rdbf2415f51d917be9cf2e5a197431dfc.png" group-title="[6395] ข่าว",DW USA
+https://live.iptv-th.workers.dev/live/xc-340.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/0012.png" group-title="[6395] ข่าว",CGN TV
+https://live.iptv-th.workers.dev/live/xc-342.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/sd-nhkworld.png" group-title="[6395] ข่าว",NHK WORLD
+https://live.iptv-th.workers.dev/live/xc-343.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/9e0d4e8ebe7ff72ca93e250109353f6d.png" group-title="[6395] ข่าว",TV 5 PAIFIC
+https://live.iptv-th.workers.dev/live/xc-347.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/news/arirang.png" group-title="[6395] ข่าว",arirang
+https://live.iptv-th.workers.dev/live/xc-348.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-01.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 1
+https://live.iptv-th.workers.dev/live/xc-355.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-02.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 2
+https://live.iptv-th.workers.dev/live/xc-356.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-03.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 3
+https://live.iptv-th.workers.dev/live/xc-357.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-04.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 4
+https://live.iptv-th.workers.dev/live/xc-358.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-05.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 5
+https://live.iptv-th.workers.dev/live/xc-359.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-06.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 6
+https://live.iptv-th.workers.dev/live/xc-360.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-07.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 7
+https://live.iptv-th.workers.dev/live/xc-361.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-08.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 8
+https://live.iptv-th.workers.dev/live/xc-362.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-09.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 9
+https://live.iptv-th.workers.dev/live/xc-363.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-10.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 10
+https://live.iptv-th.workers.dev/live/xc-364.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-11.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 11
+https://live.iptv-th.workers.dev/live/xc-365.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-12.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 12
+https://live.iptv-th.workers.dev/live/xc-366.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-13.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 13
+https://live.iptv-th.workers.dev/live/xc-367.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-14.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 14
+https://live.iptv-th.workers.dev/live/xc-368.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/logo-channel-15.png" group-title="[6395] ช่องเพื่อการศึกษา",DLTV 15
+https://live.iptv-th.workers.dev/live/xc-369.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/dltv/STOUChannel.jpg" group-title="[6395] ช่องเพื่อการศึกษา",STOU Channel
+https://live.iptv-th.workers.dev/live/xc-369801.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch3.png" group-title="[6395] ดิจิตอล",CH 3
+https://live.iptv-th.workers.dev/live/xc-83.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch3.png" group-title="[6395] ดิจิตอล",CH 3-B
+https://live.iptv-th.workers.dev/live/xc-84.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch5.png" group-title="[6395] ดิจิตอล",CH 5
+https://live.iptv-th.workers.dev/live/xc-85.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch5.png" group-title="[6395] ดิจิตอล",CH 5-B
+https://live.iptv-th.workers.dev/live/xc-86.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch7.png" group-title="[6395] ดิจิตอล",CH 7
+https://live.iptv-th.workers.dev/live/xc-87.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch7.png" group-title="[6395] ดิจิตอล",CH 7-B
+https://live.iptv-th.workers.dev/live/xc-88.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-nbt.png" group-title="[6395] ดิจิตอล",NBT
+https://live.iptv-th.workers.dev/live/xc-89.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-nbt.png" group-title="[6395] ดิจิตอล",NBT-B
+https://live.iptv-th.workers.dev/live/xc-90.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-tpbs.png" group-title="[6395] ดิจิตอล",Thai PBS
+https://live.iptv-th.workers.dev/live/xc-91.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-tpbs.png" group-title="[6395] ดิจิตอล",Thai PBS-B
+https://live.iptv-th.workers.dev/live/xc-92.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/altv.png" group-title="[6395] ดิจิตอล",ALTV
+https://live.iptv-th.workers.dev/live/xc-93.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-tptv.png" group-title="[6395] ดิจิตอล",TPTV
+https://live.iptv-th.workers.dev/live/xc-94.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-mcot.png" group-title="[6395] ดิจิตอล",MCOT
+https://live.iptv-th.workers.dev/live/xc-95.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-tnn24.png" group-title="[6395] ดิจิตอล",TNN 16
+https://live.iptv-th.workers.dev/live/xc-96.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-voice.png" group-title="[6395] ดิจิตอล",VOICE
+https://live.iptv-th.workers.dev/live/xc-98.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-nation.png" group-title="[6395] ดิจิตอล",Nation HD
+https://live.iptv-th.workers.dev/live/xc-99.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-nation.png" group-title="[6395] ดิจิตอล",Nation HD-B
+https://live.iptv-th.workers.dev/live/xc-100.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-workpoint.png" group-title="[6395] ดิจิตอล",Workpoint
+https://live.iptv-th.workers.dev/live/xc-101.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-workpoint.png" group-title="[6395] ดิจิตอล",Workpoint-B
+https://live.iptv-th.workers.dev/live/xc-102.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-24u.png" group-title="[6395] ดิจิตอล",True4U
+https://live.iptv-th.workers.dev/live/xc-103.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-24u.png" group-title="[6395] ดิจิตอล",True4U-B
+https://live.iptv-th.workers.dev/live/xc-104.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-gmmchannel.png" group-title="[6395] ดิจิตอล",GMM25
+https://live.iptv-th.workers.dev/live/xc-105.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-gmmchannel.png" group-title="[6395] ดิจิตอล",GMM25-B
+https://live.iptv-th.workers.dev/live/xc-106.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch8.png" group-title="[6395] ดิจิตอล",CH 8
+https://live.iptv-th.workers.dev/live/xc-107.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch8.png" group-title="[6395] ดิจิตอล",CH 8-B
+https://live.iptv-th.workers.dev/live/xc-108.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-mono.png" group-title="[6395] ดิจิตอล",MONO29
+https://live.iptv-th.workers.dev/live/xc-109.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-mono.png" group-title="[6395] ดิจิตอล",MONO29-B
+https://live.iptv-th.workers.dev/live/xc-110.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-gmmone.png" group-title="[6395] ดิจิตอล",ONE HD
+https://live.iptv-th.workers.dev/live/xc-111.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-gmmone.png" group-title="[6395] ดิจิตอล",ONE HD-B
+https://live.iptv-th.workers.dev/live/xc-112.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-thairath.png" group-title="[6395] ดิจิตอล",Thairath
+https://live.iptv-th.workers.dev/live/xc-113.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-thairath.png" group-title="[6395] ดิจิตอล",Thairath-B
+https://live.iptv-th.workers.dev/live/xc-114.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/amarintv.png" group-title="[6395] ดิจิตอล",Amarin
+https://live.iptv-th.workers.dev/live/xc-115.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/amarintv.png" group-title="[6395] ดิจิตอล",Amarin-B
+https://live.iptv-th.workers.dev/live/xc-116.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-pptv.png" group-title="[6395] ดิจิตอล",PPTV
+https://live.iptv-th.workers.dev/live/xc-117.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-pptv.png" group-title="[6395] ดิจิตอล",PPTV-B
+https://live.iptv-th.workers.dev/live/xc-118.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-news1.png" group-title="[6395] ดิจิตอล",NEWS 1
+https://live.iptv-th.workers.dev/live/xc-119.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-topnews.png" group-title="[6395] ดิจิตอล",TOPNEWS
+https://live.iptv-th.workers.dev/live/xc-120.m3u8
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4519.png" group-title="[6395] ดิจิตอล",JKN18
+https://live.iptv-th.workers.dev/live/xc-15281.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/policetv.png" group-title="[6395] ดิจิตอล",Police TV
+https://live.iptv-th.workers.dev/live/xc-369802.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/photo_6255908059389562550_x.jpg" group-title="[6395] ดิจิตอล",VIPATV ThaiPBS
+https://live.iptv-th.workers.dev/live/xc-463430.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch3.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",3 HD
+https://live.iptv-th.workers.dev/live/xc-17808.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch5.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",5 HD
+https://live.iptv-th.workers.dev/live/xc-17822.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch7.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",7 HD
+https://live.iptv-th.workers.dev/live/xc-17823.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-nbt.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",NBT HD
+https://live.iptv-th.workers.dev/live/xc-17824.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-tpbs.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",Thai PBS HD
+https://live.iptv-th.workers.dev/live/xc-17825.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-mcot.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",MCOT HD
+https://live.iptv-th.workers.dev/live/xc-17826.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/altv.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",ALTV HD
+https://live.iptv-th.workers.dev/live/xc-17827.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-tptv.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",TPTV HD
+https://live.iptv-th.workers.dev/live/xc-17828.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-tnn24.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",TNN 16 HD
+https://live.iptv-th.workers.dev/live/xc-17829.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-nation.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",Nation HD2
+https://live.iptv-th.workers.dev/live/xc-17830.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-workpoint.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",Workpoint HD
+https://live.iptv-th.workers.dev/live/xc-17831.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-24u.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",True4U HD
+https://live.iptv-th.workers.dev/live/xc-17832.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-gmmchannel.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",GMM25 HD
+https://live.iptv-th.workers.dev/live/xc-17833.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch8.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",CH 8 HD
+https://live.iptv-th.workers.dev/live/xc-17834.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-mono.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",MONO29 HD EN-TH
+https://live.iptv-th.workers.dev/live/xc-17835.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-gmmone.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",ONE HD2
+https://live.iptv-th.workers.dev/live/xc-17836.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-thairath.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",Thairath HD
+https://live.iptv-th.workers.dev/live/xc-17837.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/amarintv.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",Amarin HD
+https://live.iptv-th.workers.dev/live/xc-17838.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-pptv.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",PPTV HD
+https://live.iptv-th.workers.dev/live/xc-17839.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/sd-news1.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",NEWS 1 HD
+https://live.iptv-th.workers.dev/live/xc-17840.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/freetv/hd-topnews.png" group-title="[6395] ดิจิตอล สำหรับดูบนเว็บ",TOPNEWS HD
+https://live.iptv-th.workers.dev/live/xc-17841.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-asianmore.png" group-title="[6395] ภาพยนต์",Asian More
+https://live.iptv-th.workers.dev/live/xc-123.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-axn.png" group-title="[6395] ภาพยนต์",AXN
+https://live.iptv-th.workers.dev/live/xc-129.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-warnertv.png" group-title="[6395] ภาพยนต์",Warner
+https://live.iptv-th.workers.dev/live/xc-130.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="[6395] ภาพยนต์",HBO HD
+https://live.iptv-th.workers.dev/live/xc-133.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-hit.png" group-title="[6395] ภาพยนต์",HBO HITS HD
+https://live.iptv-th.workers.dev/live/xc-134.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hbosignature.png" group-title="[6395] ภาพยนต์",HBO Signature
+https://live.iptv-th.workers.dev/live/xc-135.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hbofamily.png" group-title="[6395] ภาพยนต์",HBO Family HD
+https://live.iptv-th.workers.dev/live/xc-136.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/cinemax(2).png" group-title="[6395] ภาพยนต์",CineMax
+https://live.iptv-th.workers.dev/live/xc-138.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/rocken.jpg" group-title="[6395] ภาพยนต์",BLUEANT ENTERTAINMENT 
+https://live.iptv-th.workers.dev/live/xc-139.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/expreme.jpg" group-title="[6395] ภาพยนต์",BLUEANT EXTREME
+https://live.iptv-th.workers.dev/live/xc-140.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/sd-thaifilm.png" group-title="[6395] ภาพยนต์",TRUE Thai Film 
+https://live.iptv-th.workers.dev/live/xc-141.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm.png" group-title="[6395] ภาพยนต์",True Film HD
+https://live.iptv-th.workers.dev/live/xc-142.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm2.png" group-title="[6395] ภาพยนต์",True Film HD2
+https://live.iptv-th.workers.dev/live/xc-143.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/Mono29p.jpg" group-title="[6395] ภาพยนต์",Mono29+
+https://live.iptv-th.workers.dev/live/xc-145.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/sd-series.png" group-title="[6395] ภาพยนต์",True Series
+https://live.iptv-th.workers.dev/live/xc-146.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/filmasia.jpg" group-title="[6395] ภาพยนต์",True Film Asia
+https://live.iptv-th.workers.dev/live/xc-147.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/moviehits.png" group-title="[6395] ภาพยนต์",True Movie Hits
+https://live.iptv-th.workers.dev/live/xc-148.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/1719898154.png" group-title="[6395] ภาพยนต์",TVB CLASSIC HD
+https://live.iptv-th.workers.dev/live/xc-150.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/ccm.png" group-title="[6395] ภาพยนต์",CCM
+https://live.iptv-th.workers.dev/live/xc-151.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/ctb.png" group-title="[6395] ภาพยนต์",CTB 
+https://live.iptv-th.workers.dev/live/xc-153.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/ch8.png" group-title="[6395] ภาพยนต์",Channel 8 
+https://live.iptv-th.workers.dev/live/xc-155.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/z.png" group-title="[6395] ภาพยนต์",ZEE
+https://live.iptv-th.workers.dev/live/xc-158.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/3bbasian.png" group-title="[6395] ภาพยนต์",3BB Asian
+https://live.iptv-th.workers.dev/live/xc-16857.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/universal.jpg" group-title="[6395] ภาพยนต์",Universal
+https://live.iptv-th.workers.dev/live/xc-435625.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/Livesky11.png" group-title="[6395] ภาพยนต์",Livesky 1
+https://live.iptv-th.workers.dev/live/xc-443073.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/Livesky22.png" group-title="[6395] ภาพยนต์",Livesky 2
+https://live.iptv-th.workers.dev/live/xc-443074.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/ipm_series_plus_hd.png" group-title="[6395] ภาพยนต์",SERIES
+https://live.iptv-th.workers.dev/live/xc-443075.m3u8
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/490/086/000/m4s6ul4kio3E1fDMkhU-o.jpg" group-title="[6395] ภาพยนต์",CCTV-4
+https://live.iptv-th.workers.dev/live/xc-541545.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/pug.jpg" group-title="[6395] วาไรตี้",ปลูกปัญญา
+https://live.iptv-th.workers.dev/live/xc-17804.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/hd-xzyte.png" group-title="[6395] วาไรตี้",TRUE X-ZYTE
+https://live.iptv-th.workers.dev/live/xc-297.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/True_Shopping.png" group-title="[6395] วาไรตี้",True Shopping
+https://live.iptv-th.workers.dev/live/xc-298.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/sd-mixmajor.png" group-title="[6395] วาไรตี้",Mix Major
+https://live.iptv-th.workers.dev/live/xc-317.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/fash.jpg" group-title="[6395] วาไรตี้",Fashion TV
+https://live.iptv-th.workers.dev/live/xc-348756.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/FMCVhDPqBblpP2uKaRw82Q_5ywI=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/qx2B9PD0UWmV5pSLwLTsOp75Kjzm5ghp.png" group-title="[6395] วาไรตี้",โมโน29 มิวสิค สเตชั่น
+https://live.iptv-th.workers.dev/live/xc-369796.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/M7eXiQ7VjfsKfr5EsmWLp-XgrV0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/0h1Bs0iQLcfgbkxMs8jeEivUufagnVaH.png" group-title="[6395] วาไรตี้",A'lure Channel
+https://live.iptv-th.workers.dev/live/xc-369797.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ttRFKQ4M3xnfytnIBbSSNYSkkc8=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/rWayopP3T7VDmZi0MLE4eDs7Nr3izXvf.png" group-title="[6395] วาไรตี้",RUSH Stories
+https://live.iptv-th.workers.dev/live/xc-369798.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/rama.jpg" group-title="[6395] วาไรตี้",Rama Channel
+https://live.iptv-th.workers.dev/live/xc-369799.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/varite/suwannabhumi_tv.png" group-title="[6395] วาไรตี้",Suwannabhumi Channel
+https://live.iptv-th.workers.dev/live/xc-369800.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/816989d0-b550-11ea-8fac-236a281cd6c5_original.png" group-title="[6395] วาไรตี้",ธรรมะทีวี
+https://live.iptv-th.workers.dev/live/xc-370124.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7d74eda0-2515-11ee-864f-a52221dad038_webp_original.webp" group-title="[6395] วาไรตี้",สามเณรปลูกปัญญาธรรม
+https://live.iptv-th.workers.dev/live/xc-370125.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2025/04/22/3fd05bf0-1f5b-11f0-998a-5bc77a7ebf21_webp_original.webp" group-title="[6395] วาไรตี้",ไทไชโย
+https://live.iptv-th.workers.dev/live/xc-370126.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/17/3943ca00-8fd6-11ec-b076-dffedf0eab22_webp_original.png" group-title="[6395] วาไรตี้",ไวท์แชนแนล
+https://live.iptv-th.workers.dev/live/xc-370128.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/M2-ROCK.png" group-title="[6395] วาไรตี้",M2rock HD
+https://live.iptv-th.workers.dev/live/xc-435637.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/M4-jazz.png" group-title="[6395] วาไรตี้",M4JAZZ HD
+https://live.iptv-th.workers.dev/live/xc-435638.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/M6-country.png" group-title="[6395] วาไรตี้",M6country HD
+https://live.iptv-th.workers.dev/live/xc-435639.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/TRUEAF2026.jpg" group-title="[6395] วาไรตี้",TRUE AF 2026
+https://live.iptv-th.workers.dev/live/xc-547724.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/hd-discovery.png" group-title="[6395] สารคดี",Discovery Asia 
+https://live.iptv-th.workers.dev/live/xc-274.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/sd-discovery.png" group-title="[6395] สารคดี",Discovery SD
+https://live.iptv-th.workers.dev/live/xc-275.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/hd-history.png" group-title="[6395] สารคดี",HISTORY TH
+https://live.iptv-th.workers.dev/live/xc-277.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/Animalshow.png" group-title="[6395] สารคดี",Animal Show
+https://live.iptv-th.workers.dev/live/xc-280.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/sd-expsci.png" group-title="[6395] สารคดี",TRUE SCI
+https://live.iptv-th.workers.dev/live/xc-283.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1772460739.png" group-title="[6395] สารคดี",Foodiez Channel
+https://live.iptv-th.workers.dev/live/xc-284.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/sd-expwild.png" group-title="[6395] สารคดี",TRUE WILD
+https://live.iptv-th.workers.dev/live/xc-285.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/hd-food.png" group-title="[6395] สารคดี",Food-Channel TH
+https://live.iptv-th.workers.dev/live/xc-287.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/sd-asianfood.png" group-title="[6395] สารคดี",Asian-Food
+https://live.iptv-th.workers.dev/live/xc-288.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/rs996download.png" group-title="[6395] สารคดี",สำรวจโลก
+https://live.iptv-th.workers.dev/live/xc-295.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/mysci.png" group-title="[6395] สารคดี",Mysci
+https://live.iptv-th.workers.dev/live/xc-12194.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/tlc.png" group-title="[6395] สารคดี",TLC
+https://live.iptv-th.workers.dev/live/xc-139814.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/sd-bbclifestyle.png" group-title="[6395] สารคดี",BBC Lifestyle
+https://live.iptv-th.workers.dev/live/xc-140161.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/KhongDee.png" group-title="[6395] สารคดี",ของดี ประเทศไทย
+https://live.iptv-th.workers.dev/live/xc-140164.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/ThaiNess.png" group-title="[6395] สารคดี",Thainess
+https://live.iptv-th.workers.dev/live/xc-228542.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/hd-natgeo.png" group-title="[6395] สารคดี",National Geographic
+https://live.iptv-th.workers.dev/live/xc-288575.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Outdoor_Channel_logo_2007-2017.svg/1200px-Outdoor_Channel_logo_2007-2017.svg.png" group-title="[6395] สารคดี",Outdoor
+https://live.iptv-th.workers.dev/live/xc-288576.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/discovery/hd-history2.png" group-title="[6395] สารคดี",History2
+https://live.iptv-th.workers.dev/live/xc-369920.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" group-title="[6395] สารคดี",RT Documentary
+https://live.iptv-th.workers.dev/live/xc-401873.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-amazing.png" group-title="[6395] สารคดี",AMAZING
+https://live.iptv-th.workers.dev/live/xc-435629.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-seience.png" group-title="[6395] สารคดี",Science
+https://live.iptv-th.workers.dev/live/xc-435630.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-animal.png" group-title="[6395] สารคดี",Animal
+https://live.iptv-th.workers.dev/live/xc-435631.m3u8
